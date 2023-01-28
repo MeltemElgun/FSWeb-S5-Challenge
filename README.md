@@ -1,4 +1,4 @@
-# Uygulamalı JavaScript Sprint Mücadelesi
+n# Uygulamalı JavaScript Sprint Mücadelesi
 
 **Bu talimatları dikkatlice okuyun. Bu Sprint Mücadelesine başlamadan önce tam olarak ne beklendiğini anlayın.**
 
@@ -10,9 +10,9 @@ Bu sprint mücadelesi sırasında işbirliği yapmanıza izin verilmez.
 
 ### Proje Kurulumu
 
-* [ ] Bu projenyi forklayarak bir kopyasını oluşturun.
-* [ ] Reponun kendi versiyonunuzu klonlayın.
-* [ ] Commitinizi pushlayın: `git push origin main`.
+- [ ] Bu projenyi forklayarak bir kopyasını oluşturun.
+- [ ] Reponun kendi versiyonunuzu klonlayın.
+- [ ] Commitinizi pushlayın: `git push origin main`.
 
 ## Proje Açıklaması
 
@@ -47,13 +47,23 @@ Aşağıda listelenen minimum uygulanabilir ürün (MVP) spesifikasyonlarını k
 - Yazım denetimi ve dilbilgisi denetimi de dahil olmak üzere çalışmanızı gözden geçirmek, iyileştirmek için zaman planlayın.
 - MVP'yi karşılayan bir meydan okuma göndermek, çok fazla detayla uğraşılıp da çalışmayan bir kod göndermekten daha iyidir.
 
-
 ## Ek Sorular
 
 Aşağıdaki soruları yanıtlayarak bu sprint'in kavramlarını anladığınızı gösterin. Her sorudan sonra yanıtlarınızı eklemek için bu belgeyi düzenleyin.
 
 1. DOM nedir?
+   \*\*\*Html'i dinamik hale getirmek için javascript dosyasında htlm oluşturma.
 2. Bir event nedir?
+   \*\*\*\*tarayıcı ve kullanıcının yaptığı eylemler;Web sayfasının yüklenmesi,
+   Veri giriş alanının değişmesi,Butona tıklanması
+
 3. Bir event dinleyici(listener) nedir?
+   \*\*\*\*eventlerin function oluşturacak dinamik hale getirilmesi
+
 4. Neden bir NodeList'i Array'e dönüştürelim??
+
+---
+
 5. Bileşen nedir?
+
+---
